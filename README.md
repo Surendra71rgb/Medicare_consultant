@@ -43,7 +43,7 @@ API-Based Real-Time Inference – Powered by LLM and vision model APIs
 
 Fast & User-Friendly UI – Streamlit-based deployment for accessibility
 
-Tech Stack
+# Tech Stack
 
 Python
 
